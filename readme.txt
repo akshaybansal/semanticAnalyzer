@@ -1,0 +1,1 @@
+The aim was to check the polarity of a tweet about a product (keyword), as an average twitter user publishes about their reviews of a product in there tweets and so this helps in getting the user opinion about a product and also know the problem faced by the users related to the product.
